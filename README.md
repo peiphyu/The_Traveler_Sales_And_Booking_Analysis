@@ -46,14 +46,14 @@ The Traveler Travel & Tour – Sales & Booking Analysis (2023–2024)
 #### •	The business is operating profitably but with limited margin buffer.
 #### 🔎 Insight: The company should focus on improving operational efficiency and margin management rather than only increasing sales volume.
 
-2.	Yearly & Monthly Revenue Trend Insight
-•	Revenue across 2023 remained relatively stable throughout the year.
-•	In 2024, revenue performance appears inconsistent, with a sharp drop in December.
-•	Peak months are concentrated in mid-year periods, suggesting seasonal travel demand.
-🔎 Insight: 
-•	The company experiences strong seasonality. 
-•	Marketing campaigns should be intensified before peak months.
-•	December 2024 drop requires investigation (data issue, economic factor, or operational disruption).
+### 2.	Yearly & Monthly Revenue Trend Insight
+#### •	Revenue across 2023 remained relatively stable throughout the year.
+#### •	In 2024, revenue performance appears inconsistent, with a sharp drop in December.
+#### •	Peak months are concentrated in mid-year periods, suggesting seasonal travel demand.
+#### 🔎 Insight: 
+##### •	The company experiences strong seasonality. 
+##### •	Marketing campaigns should be intensified before peak months.
+##### •	December 2024 drop requires investigation (data issue, economic factor, or operational disruption).
 
 3.	Channel Performance Insight
 •	Facebook Page leads slightly with 2.8K bookings.
