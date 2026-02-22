@@ -7,12 +7,12 @@ To develop an interactive Sales and Booking Analysis Dashboard for The Traveler 
 
 ## KPIs
 ### 💰 Sales Performance
-Total Booking
-Total Revenue
-Total Cost
-Total Profit
-Monthly Revenue Trend
-Revenue by Travel Type
+#### Total Booking
+#### Total Revenue
+#### Total Cost
+#### Total Profit
+#### Monthly Revenue Trend
+#### Revenue by Travel Type
 
 ### 🌍 Destination Performance
 Profit by Destination
