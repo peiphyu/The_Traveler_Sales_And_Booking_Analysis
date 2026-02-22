@@ -19,20 +19,20 @@ To develop an interactive Sales and Booking Analysis Dashboard for The Traveler 
 #### •	Imported raw data into Power BI.
 #### •	Checked for missing values, duplicates, and data inconsistencies.
 #### •	Validated and corrected data types.
-#### •	Performed data cleaning and transformation in Power Query
+#### •	Performed data cleaning and transformation in Power Query.
 #### •	Built data model and developed DAX measures for KPIs.
 
 ## Business Questions
-Sales & Growth
+#### Sales & Growth
 1.	How is the monthly revenue trend in 2023 and 2024?
 2.	Which months generated the highest sales?
 3.	Is the company experiencing steady growth?
 4.	Which travel types generated the highest revenue?
-Customer Behavior
+#### Customer Behavior
 5.	Which booking channel is most preferred by Business Travelers?
 6.	Which channel attracts the highest percentage of Leisure travelers?
 7.	Is there a significant difference in travel type distribution between Digital Channels and Travel Agents?
-Profitability Analysis
+#### Profitability Analysis
 8.	Which destination generates the highest profit?
 9.	Which destination has the lowest profit despite high cost?
 10.	Which destination provides the best return relative to cost?
