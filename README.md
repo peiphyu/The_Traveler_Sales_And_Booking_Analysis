@@ -55,45 +55,46 @@ The Traveler Travel & Tour – Sales & Booking Analysis (2023–2024)
 ##### •	Marketing campaigns should be intensified before peak months.
 ##### •	December 2024 drop requires investigation (data issue, economic factor, or operational disruption).
 
-3.	Channel Performance Insight
-•	Facebook Page leads slightly with 2.8K bookings.
-•	Online Website, Travel Agent, and Mobile App perform almost equally (2.6K each).
-•	Booking distribution across channels is balanced, indicating diversified acquisition strategy.
-🔎 Insight: 
-•	The company is not overly dependent on a single channel.
-•	Digital platforms (Facebook, Website, Mobile App) collectively dominate bookings.
-•	There is opportunity to further optimize digital marketing ROI.
+### 3.	Channel Performance Insight
+#### •	Facebook Page leads slightly with 2.8K bookings.
+#### •	Online Website, Travel Agent, and Mobile App perform almost equally (2.6K each).
+#### •	Booking distribution across channels is balanced, indicating diversified acquisition strategy.
+#### 🔎 Insight: 
+##### •	The company is not overly dependent on a single channel.
+##### •	Digital platforms (Facebook, Website, Mobile App) collectively dominate bookings.
+##### •	There is opportunity to further optimize digital marketing ROI.
 
-4.	Customer Behavior by Channel Insight
-•	Across all channels, Business bookings account for around 40%.
-•	Leisure bookings are consistently around 39%.
-•	Around 20% remain classified us Unknown.
-🔎 Insight: 
-•	Customer behavior pattern is consistent across booking channels.
-•	No channel is highly specialized for either Business or Leisure.
-•	Opportunity exists to create channel-specific marketing strategies (eg. Promote corporate packages)
+### 4.	Customer Behavior by Channel Insight
+#### •	Across all channels, Business bookings account for around 40%.
+#### •	Leisure bookings are consistently around 39%.
+#### •	Around 20% remain classified us Unknown.
+#### 🔎 Insight: 
+##### •	Customer behavior pattern is consistent across booking channels.
+##### •	No channel is highly specialized for either Business or Leisure.
+##### •	Opportunity exists to create channel-specific marketing strategies (eg. Promote corporate packages)
 
-5.	Destination Profitability Insight
-•	Korea generates the highest profit (106K) with relatively controlled cost.
-•	Dubai follows with strong profitability (83K).
-•	Singapore shows very low profit (2K) despite high cost.
-🔎 Insight: 
-•	Korea is the most cost-efficient and profitable destination.
-•	Singapore appears underperforming and may require pricing review or cost restructuring.
-•	Budget allocation should prioritize high-margin destinations.
-***Strategic Executive Insight***
-The company demonstrates:
-> Stable revenue performance
-> Balanced customer segments
-> Diversified booking channels
-> Strong profitability in selected destinations
-However, improvement opportunities exist in:
-> Cost optimization
-> Destination-level margin management
-> Channel-specific strategic targeting
+### 5.	Destination Profitability Insight
+#### •	Korea generates the highest profit (106K) with relatively controlled cost.
+#### •	Dubai follows with strong profitability (83K).
+#### •	Singapore shows very low profit (2K) despite high cost.
+#### 🔎 Insight: 
+##### •	Korea is the most cost-efficient and profitable destination.
+##### •	Singapore appears underperforming and may require pricing review or cost restructuring.
+##### •	Budget allocation should prioritize high-margin destinations.
+
+#### ***Strategic Executive Insight***
+##### The company demonstrates:
+##### > Stable revenue performance
+##### > Balanced customer segments
+##### > Diversified booking channels
+##### > Strong profitability in selected destinations
+#### However, improvement opportunities exist in:
+##### > Cost optimization
+##### > Destination-level margin management
+##### > Channel-specific strategic targeting
 
 ## Final Conclusion
-Sales & Booking Analysis reveals that The Traveler Travel & Tour Company maintains stable revenue growth and diversified channel performance, profitability varies significantly across destinations. Strategic focus on high-margin destinations, cost efficiency improvements, and enhanced customer segmentation will strengthen long-term financial sustainability and competitive advantage.
+### Sales & Booking Analysis reveals that The Traveler Travel & Tour Company maintains stable revenue growth and diversified channel performance, profitability varies significantly across destinations. Strategic focus on high-margin destinations, cost efficiency improvements, and enhanced customer segmentation will strengthen long-term financial sustainability and competitive advantage.
 
 
 
