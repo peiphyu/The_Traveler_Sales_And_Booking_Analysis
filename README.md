@@ -22,6 +22,9 @@ To develop an interactive Sales and Booking Analysis Dashboard for The Traveler 
 #### •	Performed data cleaning and transformation in Power Query.
 #### •	Built data model and developed DAX measures for KPIs.
 
+## Dashboard
+<a href="The_Traveler_Screenshot.png"> View Dashboard </a>
+
 ## Business Questions
 #### Sales & Growth
 1.	How is the monthly revenue trend in 2023 and 2024?
