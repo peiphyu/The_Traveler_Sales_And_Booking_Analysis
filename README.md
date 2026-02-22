@@ -40,11 +40,11 @@ To develop an interactive Sales and Booking Analysis Dashboard for The Traveler 
 
 ## Project Insight
 The Traveler Travel & Tour – Sales & Booking Analysis (2023–2024)
-1.	Overall Business Performance Insight
-•	The company generated 9.1M total revenue from 11K bookings, producing 324K overall profit.
-•	While revenue is strong, the profit margin is relatively moderate compared to total cost (8.8M), indicating opportunities for cost optimization.
-•	The business is operating profitably but with limited margin buffer.
-🔎 Insight: The company should focus on improving operational efficiency and margin management rather than only increasing sales volume.
+### 1.	Overall Business Performance Insight
+#### •	The company generated 9.1M total revenue from 11K bookings, producing 324K overall profit.
+#### •	While revenue is strong, the profit margin is relatively moderate compared to total cost (8.8M), indicating opportunities for cost optimization.
+#### •	The business is operating profitably but with limited margin buffer.
+#### 🔎 Insight: The company should focus on improving operational efficiency and margin management rather than only increasing sales volume.
 
 2.	Yearly & Monthly Revenue Trend Insight
 •	Revenue across 2023 remained relatively stable throughout the year.
