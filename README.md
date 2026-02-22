@@ -34,12 +34,9 @@ To develop an interactive Sales and Booking Analysis Dashboard for The Traveler 
 #### Customer Behavior
 5.	Which booking channel is most preferred by Business Travelers?
 6.	Which channel attracts the highest percentage of Leisure travelers?
-7.	Is there a significant difference in travel type distribution between Digital Channels and Travel Agents?
 #### Profitability Analysis
-8.	Which destination generates the highest profit?
-9.	Which destination has the lowest profit despite high cost?
-10.	Which destination provides the best return relative to cost?
-11.	Are there destinations with high investment but weak financial return?
+7.	Which destination provides the best return relative to cost?
+8.	Are there destinations with high investment but weak financial return?
 
 ## Project Insight
 The Traveler Travel & Tour – Sales & Booking Analysis (2023–2024)
