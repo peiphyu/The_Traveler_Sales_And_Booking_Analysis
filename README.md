@@ -16,11 +16,11 @@ To develop an interactive Sales and Booking Analysis Dashboard for The Traveler 
 #### Booking by Channel, Booking Distribution (%) by Channel and Travel Type
 
 ## Process
-### •	Imported raw data into Power BI.
-### •	Checked for missing values, duplicates, and data inconsistencies.
-### •	Validated and corrected data types.
-### •	Performed data cleaning and transformation in Power Query
-### •	Built data model and developed DAX measures for KPIs.
+#### •	Imported raw data into Power BI.
+#### •	Checked for missing values, duplicates, and data inconsistencies.
+#### •	Validated and corrected data types.
+#### •	Performed data cleaning and transformation in Power Query
+#### •	Built data model and developed DAX measures for KPIs.
 
 ## Business Questions
 Sales & Growth
