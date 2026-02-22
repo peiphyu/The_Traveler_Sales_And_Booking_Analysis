@@ -25,8 +25,6 @@ To develop an interactive Sales and Booking Analysis Dashboard for The Traveler 
 ## Dashboard
 <a href="The_Traveler_Screenshot.png"> View Dashboard </a>
 
-<a href="The_Traveler.pbix"> View </a>
-
 ## Business Questions
 #### Sales & Growth
 1.	How is the monthly revenue trend in 2023 and 2024?
