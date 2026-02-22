@@ -6,7 +6,7 @@ To develop an interactive Sales and Booking Analysis Dashboard for The Traveler 
 - <a href= "The_Traveler_Data.xlsx" > The Traveler Sales & Booking Analysis Data </a>
 
 ## KPIs
-💰 Sales Performance
+### 💰 Sales Performance
 Total Booking
 Total Revenue
 Total Cost
@@ -14,11 +14,11 @@ Total Profit
 Monthly Revenue Trend
 Revenue by Travel Type
 
-🌍 Destination Performance
+### 🌍 Destination Performance
 Profit by Destination
 Cost Vs Profit by Destination
 
-📅 Operational Metrics
+### 📅 Operational Metrics
 Booking by Channel 
 Booking Distribution (%) by Channel and Travel Type
 
