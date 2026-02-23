@@ -85,7 +85,6 @@ The Traveler Travel & Tour – Sales & Booking Analysis (2023–2024)
 #### ***Strategic Executive Insight***
 ##### The company demonstrates:
 ##### > Stable revenue performance
-##### > Balanced customer segments
 ##### > Diversified booking channels
 ##### > Strong profitability in selected destinations
 #### However, improvement opportunities exist in:
